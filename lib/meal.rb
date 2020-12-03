@@ -25,5 +25,5 @@ class Meal
     meal.customer == self
   end
 end
- 
+
 end
